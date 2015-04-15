@@ -1,0 +1,57 @@
+TD {font-size: 12px; COLOR: #333333; LINE-HEIGHT: 18px; font-family:宋体;}
+body {font-size: 12px; COLOR: #333333; LINE-HEIGHT: 18px; font-family:宋体;}
+P {font-size: 12px; COLOR: #333333; LINE-HEIGHT: 18px; font-family:宋体;}
+A:link {COLOR: #ccff99; FONT-FAMILY:宋体; FONT-SIZE: 12px; TEXT-DECORATION: none}
+A:visited {COLOR: #ccff99; FONT-FAMILY:宋体; FONT-SIZE: 12px; TEXT-DECORATION: none}
+A:hover {COLOR: #ffffff; FONT-FAMILY:宋体; FONT-SIZE: 12px; TEXT-DECORATION: none}
+A:active {COLOR: #ccff99; FONT-FAMILY:宋体; FONT-SIZE: 12px; TEXT-DECORATION: none}
+DIV {font-size: 12px; COLOR: #333333; LINE-HEIGHT: 18px; font-family:宋体;}
+SPAN {font-size: 12px; COLOR: #333333; LINE-HEIGHT: 18px; font-family:宋体;}
+INPUT {font-size: 12px; COLOR: #333333; LINE-HEIGHT: 18px; font-family:宋体;}
+SELECT {font-size: 12px; COLOR: #333333; LINE-HEIGHT: 18px; font-family:宋体;}
+TEXTAREA {font-size: 12px; COLOR: #333333; LINE-HEIGHT: 18px; font-family:宋体;}
+.body {font-size: 12px; COLOR: #333333; LINE-HEIGHT: 18px; font-family:宋体;}
+LI {font-size: 12px; COLOR: #333333; LINE-HEIGHT: 18px; font-family:宋体;}
+.left-bt1 {
+	BORDER-LEFT: #ffffff 1px solid
+}
+.left-bt2 {
+	BORDER-TOP: #ffffff 1px solid; PADDING-LEFT: 8px; BORDER-LEFT-COLOR: #ffffff; BACKGROUND-IMAGE: url(images/mis_04.gif); BORDER-BOTTOM-COLOR: #ffffff; COLOR: #ffffff; PADDING-TOP: 4px; LETTER-SPACING: 3px; HEIGHT: 27px; BACKGROUND-COLOR: #797b95; BORDER-RIGHT-COLOR: #ffffff
+}
+.left-bt3 {
+	BORDER-TOP: #ffffff 1px solid; PADDING-LEFT: 8px; BORDER-LEFT: #ffffff 1px solid; COLOR: #ffffff; PADDING-TOP: 4px; LETTER-SPACING: 3px; HEIGHT: 22px; BACKGROUND-COLOR: #EAEAEa
+}
+.bold {FONT-WEIGHT: bold}
+INPUT.linkbutton {BORDER-RIGHT: medium none; BORDER-TOP: medium none;  BORDER-LEFT: medium none; COLOR: #688eb7; BORDER-BOTTOM: medium none; BACKGROUND-COLOR: white; TEXT-DECORATION: underline}
+FORM {PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px}
+.date {FONT-SIZE: 12px; COLOR: #3c86cd; TEXT-DECORATION: none}
+.news {BORDER-RIGHT: #cccccc 1px; BORDER-TOP: #cccccc 1px; BORDER-LEFT: #cccccc 1px; BORDER-BOTTOM: #cccccc 1px dashed}
+INPUT.button {BORDER-RIGHT: #999999 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #999999 1px solid; PADDING-LEFT: 0px; FONT-SIZE: 12px; PADDING-BOTTOM: 2px; BORDER-LEFT: #999999 1px solid; CURSOR: hand; COLOR: #FFFFFF; LINE-HEIGHT: 12px; PADDING-TOP: 2px; BORDER-BOTTOM: #999999 1px solid; FONT-FAMILY: "宋体"; HEIGHT: 19px; BACKGROUND-COLOR: #006600}
+
+.textbox {BORDER-BOTTOM: #006600 1px solid; BORDER-LEFT: #006600 1px solid; BORDER-RIGHT: #006600 1px solid; BORDER-TOP: #006600 1px solid; FONT-FAMILY: 宋体; HEIGHT: 19px;}
+
+A.white:visited {COLOR: #eeeeee; FONT-FAMILY: 宋体; FONT-SIZE: 12px; TEXT-DECORATION: none}
+A.white:hover {COLOR: #00ff00; FONT-FAMILY: 宋体; FONT-SIZE: 12px; TEXT-DECORATION: none}
+A.white:link {COLOR: #eeeeee; FONT-FAMILY: 宋体; FONT-SIZE: 12px; TEXT-DECORATION: none}
+A.white:active {COLOR: #00aa00; FONT-FAMILY: 宋体; FONT-SIZE: 12px; TEXT-DECORATION: none}
+
+A.green:visited {COLOR: #009900; FONT-FAMILY: 黑体; FONT-SIZE: 16px; TEXT-DECORATION: none}
+A.green:hover {COLOR: #00aa00; FONT-FAMILY: 黑体; FONT-SIZE: 16px; TEXT-DECORATION: none}
+A.green:link {COLOR: #009900; FONT-FAMILY: 黑体; FONT-SIZE: 16px; TEXT-DECORATION: none}
+A.green:active {COLOR: #00aa00; FONT-FAMILY: 黑体; FONT-SIZE: 16px; TEXT-DECORATION: none}
+
+A.99:visited {COLOR: #cccccc; FONT-FAMILY: 宋体; FONT-SIZE: 12px; TEXT-DECORATION: none}
+A.99:hover {COLOR: #00ff00; FONT-FAMILY: 宋体; FONT-SIZE: 12px; TEXT-DECORATION: none}
+A.99:link {COLOR: #cccccc; FONT-FAMILY: 宋体; FONT-SIZE: 12px; TEXT-DECORATION: none}
+A.99:active {COLOR: #00aa00; FONT-FAMILY: 宋体; FONT-SIZE: 12px; TEXT-DECORATION: none}
+
+A.66:visited {COLOR: #666666; FONT-FAMILY: 宋体; FONT-SIZE: 12px; TEXT-DECORATION: none}
+A.66:hover {COLOR: #00aa00; FONT-FAMILY: 宋体; FONT-SIZE: 12px; TEXT-DECORATION: none}
+A.66:link {COLOR: #666666; FONT-FAMILY: 宋体; FONT-SIZE: 12px; TEXT-DECORATION: none}
+A.66:active {COLOR: #00aa00; FONT-FAMILY: 宋体; FONT-SIZE: 12px; TEXT-DECORATION: none}
+
+A.g:visited {COLOR: #009900; FONT-FAMILY: 宋体; FONT-SIZE: 12px; TEXT-DECORATION: none}
+A.g:hover {COLOR: #00aa00; FONT-FAMILY: 宋体; FONT-SIZE: 12px; TEXT-DECORATION: none}
+A.g:link {COLOR: #009900; FONT-FAMILY: 宋体; FONT-SIZE: 12px; TEXT-DECORATION: none}
+A.g:active {COLOR: #00aa00; FONT-FAMILY: 宋体; FONT-SIZE: 12px; TEXT-DECORATION: none}
+
